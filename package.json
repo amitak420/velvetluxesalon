@@ -1,0 +1,21 @@
+{
+  "name": "lovable-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "next": "*",
+    "react": "*",
+    "react-dom": "*"
+  },
+  "devDependencies": {
+    "typescript": "*",
+    "@types/react": "*",
+    "@types/node": "*"
+  }
+}
